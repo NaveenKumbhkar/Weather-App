@@ -1,0 +1,1 @@
+The Weather app project is designed to provide accurate and up-to-date weather reports for specific cities or any location worldwide. This application utilizes HTML, JavaScript, and CSS to create a user-friendly interface where users can enter a location and receive detailed weather information

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Sun -->
+  <circle cx="24" cy="24" r="10" fill="#FDB813"/>
+
+  <!-- Cloud -->
+  <path
+    d="M20 44h28a8 8 0 0 0 0-16
+       11 11 0 0 0-21-2
+       A7 7 0 0 0 20 44z"
+    fill="#DADADA"
+  />
+</svg>
